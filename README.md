@@ -10,6 +10,6 @@
 <img src = "https://komarev.com/ghpvc/?username=qilnarq&style=flat-square&color=blue" alt=""/>
   <h1>
   Hi my name is Ilnar
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNyam11dGg5a2I5cW5vdnlhcnR1YXI3MjlvMmdoMmtjZzN0cmlydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="90px"/>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNyam11dGg5a2I5cW5vdnlhcnR1YXI3MjlvMmdoMmtjZzN0cmlydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px"/>
 </h1>
 <div/>
