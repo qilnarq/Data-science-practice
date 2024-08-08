@@ -14,5 +14,5 @@
 </h1>
 <div/>
 :man_technologist: I am a Data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I`m studing data analysis and machine learning.
 
